@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Lorinya</h1>
-<h3 align="center">Aspiring Inventor | Passionate Coder Hey there! I'm Isaac Lorinya, a young and ambitious inventor-in-the-making with a passion for coding.</h3>
+<h3 align="center">Aspiring Inventor | Passionate Coder | young and ambitious inventor-in-the-making with a passion for coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorinyajr&label=Profile%20views&color=0e75b6&style=flat" alt="lorinyajr" /> </p>
 
